@@ -1,5 +1,4 @@
 name: auto_build
-
 on:
   push:
     branches:
