@@ -2,7 +2,7 @@ name: auto_build
 on:
   push:
     branches:
-      - master
+      - main
 jobs:
   build:
     name: Build
